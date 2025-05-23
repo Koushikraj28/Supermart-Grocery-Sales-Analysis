@@ -3,7 +3,7 @@
 # Objective:
 The aim of this project was to analyze sales and profit data from a grocery retail dataset and gain useful insights. We also built a simple model to predict profit based on sales and discount.
 
-# Dataset Details:
+# Dataset Details: 
 - Total Records: 9,994
 - Columns: 11
 - No missing or duplicate values
